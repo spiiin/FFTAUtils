@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMapsParams", "PrintMapsParams\PrintMapsParams.csproj", "{F710690B-6FE9-4AF0-9E5F-A0146A1427B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeArrangeData", "DecodeArrangeData\DecodeArrangeData.csproj", "{A88272B1-EF9E-4085-94AB-0B60E34980B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderArrangeMap", "RenderArrangeMap\RenderArrangeMap.csproj", "{B29E222F-4CBB-4361-B323-65D8D3456427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderHeightMap", "RenderHeightMap\RenderHeightMap.csproj", "{60472854-B35B-40F1-B808-3C3BC63B0A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F710690B-6FE9-4AF0-9E5F-A0146A1427B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F710690B-6FE9-4AF0-9E5F-A0146A1427B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F710690B-6FE9-4AF0-9E5F-A0146A1427B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F710690B-6FE9-4AF0-9E5F-A0146A1427B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88272B1-EF9E-4085-94AB-0B60E34980B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88272B1-EF9E-4085-94AB-0B60E34980B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88272B1-EF9E-4085-94AB-0B60E34980B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88272B1-EF9E-4085-94AB-0B60E34980B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29E222F-4CBB-4361-B323-65D8D3456427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29E222F-4CBB-4361-B323-65D8D3456427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29E222F-4CBB-4361-B323-65D8D3456427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29E222F-4CBB-4361-B323-65D8D3456427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60472854-B35B-40F1-B808-3C3BC63B0A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60472854-B35B-40F1-B808-3C3BC63B0A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60472854-B35B-40F1-B808-3C3BC63B0A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60472854-B35B-40F1-B808-3C3BC63B0A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
