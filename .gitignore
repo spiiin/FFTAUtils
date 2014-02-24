@@ -1,0 +1,7 @@
+/BIN/gameData
+/BIN/*.exe
+/BIN/*.config
+
+/BIN/*.pdb
+
+/BIN/*.manifest
