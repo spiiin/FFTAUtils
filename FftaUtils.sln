@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderArrangeMap", "RenderA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderHeightMap", "RenderHeightMap\RenderHeightMap.csproj", "{60472854-B35B-40F1-B808-3C3BC63B0A0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFTA_MapEditor", "FFTA_MapEditor\FFTA_MapEditor.csproj", "{18C9EFFB-4F2C-4058-8130-46BD9BC7DDB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{60472854-B35B-40F1-B808-3C3BC63B0A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60472854-B35B-40F1-B808-3C3BC63B0A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60472854-B35B-40F1-B808-3C3BC63B0A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C9EFFB-4F2C-4058-8130-46BD9BC7DDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C9EFFB-4F2C-4058-8130-46BD9BC7DDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C9EFFB-4F2C-4058-8130-46BD9BC7DDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C9EFFB-4F2C-4058-8130-46BD9BC7DDB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
